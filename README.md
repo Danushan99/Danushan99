@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://ahamedsafnaj.com)](https://ahamedsafnaj.com)
 
 ![Safnaj's github stats](https://github-readme-stats.vercel.app/api?username=Danushan99&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safnaj&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danushan99&layout=compact)
 
 <!--
 
