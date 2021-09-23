@@ -1,4 +1,10 @@
-### Hi there, I'm Dhanu 👋
+
+<div align="right">
+
+![](https://visitor-badge.glitch.me/badge?page_id=Danushan99.Kobigan1223)
+
+</div>
+ Hi there, I'm Dhanu 👋
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamSafnaj/)](https://twitter.com/iamSafnaj/)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iam_safnaj)](https://www.instagram.com/iam_safnaj)
@@ -7,14 +13,20 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9752928/ahamed-safnaj)](https://stackoverflow.com/users/9752928/ahamed-safnaj)
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://ahamedsafnaj.com)](https://ahamedsafnaj.com)
 
-![Dhanu's github stats](https://github-readme-stats.vercel.app/api?username=Danushan99&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danushan99&layout=compact)
+<p >
+  <img src = "https://github-readme-stats.vercel.app/api?username=Danushan99&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
+</p>
+
+<a href="https://www.danushan.me/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Danushan99&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21 &theme=react&" />
+  
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danushan99&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react&" /></a>
 
 
-<!--
+
+
 
 ⚡ Second Year Undergraduate at [SLIIT](https://www.sliit.lk) <br/>
-⚡ Second Year Undergraduate at [SLIIT](https://www.sliit.lk) <br/>
-⚡ application Developer <br/> -->
+⚡ Mobile application Developer <br/>
 
 
 ### Skills : <br/>
