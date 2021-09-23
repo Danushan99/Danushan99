@@ -10,6 +10,9 @@
 ![Dhanu's github stats](https://github-readme-stats.vercel.app/api?username=Danushan99&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danushan99&layout=compact)
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Danushan99&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
+</p>
 <!--
 
 ⚡ Second Year Undergraduate at [SLIIT](https://www.sliit.lk) <br/>
