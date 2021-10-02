@@ -11,7 +11,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https:)]()
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danushan-ravendran-337049204/)](https://www.linkedin.com/in/danushan-ravendran-337049204/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14372248/dhanu)](https://stackoverflow.com/users/14372248/dhanu)
-[![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=http://www.danushan.me/)](https:http://www.danushan.me/)
+[![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=http:www.danushan.me/)](http:www.danushan.me/)
 
 <p >
   <img src = "https://github-readme-stats.vercel.app/api?username=Danushan99&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
