@@ -7,7 +7,7 @@
  Hi there, I'm Dhanu 👋
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dhanuthasan)](https://twitter.com/dhanuthasan)
-[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dhanu_thazan/?hl=en)](https://www.instagram.com/dhanu_thazan/?hl=en)
+[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dhanu_thazan/?hl=en)](https://www.instagram.com/danu_thazan/?hl=en)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https:)]()
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danushan-ravendran-337049204/)](https://www.linkedin.com/in/danushan-ravendran-337049204/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14372248/dhanu)](https://stackoverflow.com/users/14372248/dhanu)
