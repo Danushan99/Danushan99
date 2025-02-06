@@ -22,10 +22,6 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danushan99&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react&" /></a>
 
 
-
-
-
-⚡ Second Year Undergraduate at [SLIIT](https://www.sliit.lk) <br/>
 ⚡ Mobile application Developer <br/>
 
 
